@@ -10,7 +10,7 @@ The software-based setup uses Espressif's IoT Development Framework (ESP-IDF) an
   
 ### Prerequisites 🧰
   
-To set the OpenThread Border Router (OTBR) using a Raspberry Pi there are following Hardware-software Prerequisites - 
+To set the OpenThread Border Router (OTBR) using a ESP32 there are following Hardware-software Prerequisites - 
   
 ### Hardware  
 The core of an ESP32-based OTBR is a two-chip setup, combining a Wi-Fi-capable host with a dedicated radio co-processor (RCP).
