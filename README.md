@@ -39,7 +39,8 @@ The core of an ESP32-based OTBR is a two-chip setup, combining a Wi-Fi-capable h
 🌐 What is OpenThread -  Docs - 🔗 https://github.com/openthread/openthread    
 🌐 OpenThread Border Router - 🔗 https://openthread.io/guides/border-router   
 📙 ESP32 OpenThread 🔗 https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/openthread.html  
-🌐 ESP Thread Border Router SDK - 🔗 https://github.com/espressif/esp-thread-br    
+🌐 ESP Thread Border Router SDK - 🔗 https://docs.espressif.com/projects/esp-thread-br/en/latest/  
+🌐 ESP Thread Border Router SDK GitHub - 🔗 https://github.com/espressif/esp-thread-br    
 🌐 OpenThread Border Router Example  - 🔗 https://github.com/espressif/esp-idf/tree/master/examples/openthread/ot_br    
 
 ------------------------------------------------------------------------------------------------------
