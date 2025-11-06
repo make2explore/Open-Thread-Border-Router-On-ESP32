@@ -35,7 +35,7 @@ dataset
 
 ### ✏️ Customize Network Settings
 
-You can change parameters such as the channel number or network key:
+You can change parameters, such as the channel number or network key:
 
 ```bash
 dataset networkkey 1626472a4b630f140e20b58998fe88a7
