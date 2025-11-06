@@ -10,4 +10,4 @@ For more details, visit the official Espressif OpenThread guide: [docs.espressif
   
 - To create and Test the Thread network, we have shared the commands we used in the video - you can refer them from following [guide](https://github.com/make2explore/Open-Thread-Border-Router-On-ESP32/tree/main/Testing-THREAD-setup)  
   
-🔗 https://github.com/make2explore/Open-Thread-Border-Router-On-ESP32/tree/main/Testing-THREAD-setup  
+🔗 `https://github.com/make2explore/Open-Thread-Border-Router-On-ESP32/tree/main/Testing-THREAD-setup`   
