@@ -1,4 +1,4 @@
-### OpenThread Border Router on ESP32
+## OpenThread Border Router Example on ESP-IDF official Repository  
 
 Building an OpenThread Border Router (OTBR) on an ESP32 typically requires a two-chip architecture consisting of a Wi-Fi capable ESP32 host processor and an ESP32-H2 radio co-processor (RCP) with an IEEE 802.15.4 radio for Thread networking. Software requirements include Espressif's ESP-IDF framework and their ESP Thread Border Router SDK to build and flash the necessary RCP and border router firmware.  
   
