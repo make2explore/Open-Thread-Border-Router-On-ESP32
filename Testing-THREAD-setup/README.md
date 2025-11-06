@@ -1,6 +1,6 @@
 # Testing a Thread Network with OTBR and ESP32 Devices
 
-This guide outlines the steps to set up and test a Thread network using a ESP32-based OpenThread Border Router (OTBR), ESP32-C6 programmed as Thread end devices (Thread-Matter Light Application), and Amazon Echo as a smart home controller.
+This guide outlines the steps to set up and test a Thread network, using a ESP32-based OpenThread Border Router (OTBR), ESP32-C6 programmed as Thread end devices (Thread-Matter Light Application), and Amazon Echo as a smart home controller.
 
 ---
 
