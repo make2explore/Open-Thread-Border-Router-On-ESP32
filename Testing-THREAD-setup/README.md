@@ -13,15 +13,9 @@ This guide outlines the steps to set up and test a Thread network, using a ESP32
 
 ---
 
-## 🧪 Create and Start a Thread Network
-
-### 🔧 In Serial terminal of ESP32-C3 - (ot_br) Launch OpenThread CLI
-
-```bash
-sudo ot-ctl
-```
-
-### 🆕 Create a New Network Dataset
+## 🧪 Create and Start a Thread Network  
+  
+### 🆕 In Serial terminal of ESP32-C3 - (ot_br), Create a New Network Dataset
 
 ```bash
 dataset init new
