@@ -28,7 +28,7 @@ The core of an ESP32-based OTBR is a two-chip setup, combining a Wi-Fi-capable h
 
 📕 **YouTube Video Links**  
 
-- In this tutorial we will see How to install OTBR on Raspberry Pi  
+- In this tutorial we will see How to setup OTBR on ESP32 Boards   
 
 ▶️ OpenThread Border Router (OTBR) on ESP32 - Method (I)   - 🔗  https://youtu.be/dCaZpY5YMLk   
   
