@@ -15,7 +15,7 @@ This guide outlines the steps to set up and test a Thread network, using a ESP32
 
 ## 🧪 Create and Start a Thread Network  
   
-### 🆕 In Serial terminal of ESP32-C3 - (ot_br), Create a New Network Dataset
+### 🆕 In Serial terminal of ESP32-C3/ESP32-C6 - (ot_br), Create a New Network Dataset
 
 ```bash
 dataset init new
