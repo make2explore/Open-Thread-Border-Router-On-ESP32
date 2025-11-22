@@ -1,6 +1,7 @@
 ## OpenThread Border Router on ESP32  
   
-<img src="/Images/m2e-OTBR-32s.jpg" height="200"> 
+<img src="/Images/m2e-OTBR-32s.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/m2e-OTBR-32-c6.jpg" height="200" >
+
   
 An **OTBR**, or **OpenThread Border Router**, is the open-source implementation of a Thread Border Router that acts as a gateway, connecting a Thread network (a low-power wireless mesh protocol for IoT) to external IP-based networks like the internet or Wi-Fi. It provides essential services such as IP connectivity, service discovery, and external commissioning, allowing Thread devices to communicate with services and devices beyond the Thread network, which is crucial for smart home ecosystems like Matter.  
   
