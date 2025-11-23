@@ -29,7 +29,7 @@ The core of an ESP32-based OTBR is a two-chip setup, combining a Wi-Fi-capable h
 
 📕 **YouTube Video Links**  
 
-- In this tutorial we will see How to setup OTBR on ESP32 Boards   
+- In this tutorial we will see How to setup OTBR on ESP32 Boards - There are two methods, we have explained and demonstrated them in following videos  
 
 ▶️ OpenThread Border Router (OTBR) on ESP32 - Method (I)   - 🔗  https://youtu.be/dCaZpY5YMLk   
   
